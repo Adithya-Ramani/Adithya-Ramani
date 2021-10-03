@@ -1,12 +1,7 @@
-<img src="output.gif" alt="Here is a little bit about me!">
-<img src="https://github.com/Adithya-Ramani/Adithya-Ramani/blob/master/output.gif" alt="Here is a little bit about me!">
 
 
-
-
-
-
-![Bonjour!!! I'm Adithya Ramani. I'm interested in capital markets and its applications in python. Check out my work](https://github.com/Adithya-Ramani/Adithya-Ramani/raw/master/bio.gif)
+Bonjour!!! I'm Adithya Ramani. 
+I'm interested in capital markets and its applications in python. Check out my work
 
 I work as an audit associate at Deloitte, India.
 
