@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bonjour!!!+I+am+Adithya+Ramani;Welcome+to+my+page...)](https://git.io/typing-svg)
  
 
-<img src="https://media.giphy.com/media/dfEYhn5LpEezu/giphy.gif" width="600" height="400" />
+<img src="https://media.giphy.com/media/dfEYhn5LpEezu/giphy.gif" width="500" height="250" />
 
 Feel free to visit my Trading Chart page @ [Trading-View](https://in.tradingview.com/u/adithya_ramani/)
 
