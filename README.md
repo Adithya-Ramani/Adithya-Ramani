@@ -1,4 +1,5 @@
-#Bonjour !!!This is Adithya Ramani !(bio.gif)
+
+![Bonjour!!! I'm Adithya Ramani. I'm interested in capital markets and its applications in python. Check out my work](https://github.com/Adithya-Ramani/Adithya-Ramani/raw/master/bio.gif)
 
 I work as an audit associate at Deloitte, India.
 
