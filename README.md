@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bonjour!!!+I+am+Adithya+Ramani;Welcome+to+my+page...)](https://git.io/typing-svg)
  
- 
-![runtime-gif](/assets/Running_the_program.gif)
+
+<img src="https://media.giphy.com/media/dfEYhn5LpEezu/giphy.gif" width="600" height="400" />
+
 
 ## About myself
 ```python
