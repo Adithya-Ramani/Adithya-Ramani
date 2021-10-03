@@ -1,6 +1,7 @@
 
 
 Bonjour!!! I'm Adithya Ramani. 
+
 I'm interested in capital markets and its applications in python. Check out my work
 
 I work as an audit associate at Deloitte, India.
