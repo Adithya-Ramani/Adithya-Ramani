@@ -1,6 +1,6 @@
-#Bonjour !!!
+#Bonjour !!!This is Adithya Ramani !(bio.gif)
 
-This is Adithya Ramani and I work as an audit associate at Deloitte, India.
+I work as an audit associate at Deloitte, India.
 
 Apart from Audit, i am passionate about financial and capital markets. I love to watch their movements and how they shape up the economy. 
 
