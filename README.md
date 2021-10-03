@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bonjour+!+!+!;This+is+Adithya Ramani)](https://git.io/typing-svg)
-
 
 Bonjour!!! I'm Adithya Ramani. 
 
