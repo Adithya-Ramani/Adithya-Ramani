@@ -19,7 +19,6 @@ Apart from Audit, i am passionate about financial and capital markets. I love to
 
 I am a self-taught coder. I have learnt python on my own and aim to expand its applications into finance and the stock markets world, to bring in a cognitive approach to financial markets, globally. The applications of python in capital markets is something that has always intrigued me.
 
-
 I am currently tech-skilling my levels at both python and the capital markets. I have built various finance related projects using python, the source codes is put in my repository. You can check out my work in the repos
 
 We can collaborate on interesting projects in the field of Finance and capital markets, to bring out greater synergies.
