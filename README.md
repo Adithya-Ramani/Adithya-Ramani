@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bonjour!!!+I+am+Adithya+Ramani;Welcome+to+my+page...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bonjour!!!+This+is+Adithya+Ramani;Welcome+to+my+page...)](https://git.io/typing-svg)
  
 
 <img src="https://media.giphy.com/media/dfEYhn5LpEezu/giphy.gif" width="500" height="250" />
@@ -15,19 +15,18 @@ Adithya_Ramani = {
 	'AskMeAbout': [taxation, capital markets, finance],
 }
 
-Apart from Audit, i am passionate about financial and capital markets. I love to watch their movements and how they shape up the economy. 
+Apart from Audit, i am passionate about financial and capital markets. I love to watch their movements and how they shape up the global economy, with their price waves. 
 
-I am a self-taught coder. I have learnt python on my own and aim to expand its applications into finance and the stock markets world. 
+I am a self-taught coder. I have learnt python on my own and aim to expand its applications into finance and the stock markets world, to bring in a cognitive approach to financial markets, globally. The applications of python in capital markets is something that has always intrigued me.
 
-I'm interested in capital markets and its applications in python. Check out my work
 
-I am currently upskilling my levels at both python and the capital markets. I have built various finance related projects using python, the source codes is put in my repository.
+I am currently tech-skilling my levels at both python and the capital markets. I have built various finance related projects using python, the source codes is put in my repository. You can check out my work in the repos
 
-We can collaborate on interesting projects in the field of Finance and capital markets.
+We can collaborate on interesting projects in the field of Finance and capital markets, to bring out greater synergies.
 ```
 
-Your can check my economics and mrarkets related blog page here [Econclave](https://econclave.digitalpress.blog/).
-The contents of the blog is for open source, it can be used with attribution
+Your can check my economics and markets related blog page here [Econclave](https://econclave.digitalpress.blog/).
+The contents of the blog is for open source, it can be used with attribution.
 
 If you really like my page and my work, buy me a coffee at:
 
