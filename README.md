@@ -5,13 +5,13 @@
 ```python
 Adithya_Ramani = {
 	'Currently working': "Deloitte, India"
-	'Skills & Tools': [Market analysis, Corporate Finance, Python, Excel],
+	'Skills & Tools': [Financial analysis, Corporate Finance, Python, Excel],
 	'Areas of interest': [Technology, Transformations, Deal Advisory, Finance]
 }
 
-The applications of python in capital markets is something that has always intrigued me.
-I am a self-taught coder. I have learnt python on my own and aim to expand its applications into corporate finance, 
-to bring in a cognitive approach to financial markets, globally. 
+The applications of python and Django in Financial Product Building is something that has always intrigued me.
+I am a self-taught coder. I have learnt python on my own and aim to expand its applications into Fin-Tech, 
+to bring in a cognitive approach to finance industry, globally. 
 
 I am currently tech-skilling myself in the areas of various tools that aid transformation. 
 I have built a few finance related projects using python coding. 
