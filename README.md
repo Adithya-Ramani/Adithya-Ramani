@@ -10,7 +10,7 @@ Adithya_Ramani = {
 }
 
 The applications of python and Django in Financial Product Building is something that has always intrigued me.
-I am a self-taught coder. I have learnt python on my own and aim to expand its applications into Fin-Tech, 
+I am a self-taught coder and I aim to expand its applications into Fin-Tech, 
 to bring in a cognitive approach to finance industry, globally. 
 
 I am currently tech-skilling myself in the areas of various tools that aid transformation. 
