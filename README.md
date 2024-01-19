@@ -5,11 +5,11 @@
 ```python
 Adithya_Ramani = {
 	'Currently Status': "Virgin Vampire"
-	'Skills & Tools': [Financial analysis, Corporate Finance, Python, Excel],
+	'Skills & Tools': [Financial analysis, Corporate finance, Python, Excel, RPA],
 	'Areas of interest': [Technology, Transformations, Product building, Finance]
 }
 
-The applications of Automation and Digitization in Financial Product Building is something that has always intrigued me.
+The applications of Automation and Digitization in financial product building is something that has always intrigued me.
 I am a self-taught coder and I aim to expand its applications into Fin-Tech, 
 to bring in a cognitive approach to finance industry, globally. 
 
