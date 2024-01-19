@@ -4,12 +4,12 @@
 ## About myself
 ```python
 Adithya_Ramani = {
-	'Currently working': "Deloitte, India"
+	'Currently Status': "Virgin Vampire"
 	'Skills & Tools': [Financial analysis, Corporate Finance, Python, Excel],
-	'Areas of interest': [Technology, Transformations, Deal Advisory, Finance]
+	'Areas of interest': [Technology, Transformations, Product building, Finance]
 }
 
-The applications of python and Django in Financial Product Building is something that has always intrigued me.
+The applications of Automation and Digitization in Financial Product Building is something that has always intrigued me.
 I am a self-taught coder and I aim to expand its applications into Fin-Tech, 
 to bring in a cognitive approach to finance industry, globally. 
 
